@@ -1,13 +1,13 @@
-//let count = 1;
+let count = 1;
 
-//setInterval(function(){
-  //  document.getElementById("img")
-   // count++
-//if (count >3){
- //   count = 1;
-//}
+setInterval(function(){
+  document.getElementById("img")
+ count++
+if (count >3){
+   count = 1;
+}
 
-//},3000)
+},3000)
 console.log("funcionando")
 
  let test = document.getElementById("teste");
